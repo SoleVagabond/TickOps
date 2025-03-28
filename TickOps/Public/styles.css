@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background: #1e1e1e;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 50px auto;
+  }
+  
+  input {
+    padding: 10px;
+    width: 70%;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  li {
+    margin: 10px 0;
+    text-align: left;
+  }
+  
